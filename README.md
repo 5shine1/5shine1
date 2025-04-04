@@ -26,22 +26,22 @@
 ### 🛠️ Tech Stack
 
 #### 🖼️ Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&fontSize=60)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&fontSize=60)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&fontSize=60)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&fontSize=60)
 
 #### 🧠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&fontSize=60)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&fontSize=60)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&fontSize=60)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&fontSize=60)
 
 #### 🗃️ Database & DevOps
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&fontSize=60)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&fontSize=60)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&fontSize=60)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&fontSize=60)
 
 ---
 
