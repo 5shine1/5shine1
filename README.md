@@ -47,11 +47,11 @@
 
 ### 🌟 Featured Projects
 
-📌 **[Propy](https://propy.com/)**  
-Blockchain-based real estate platform. Integrated smart contract automation and user dashboards.
-
 📌 **[Meltwater](https://www.meltwater.com/)**  
 Developed analytics modules for the "Byneed" section using Next.js and Tailwind CSS.
+
+📌 **[Propy](https://propy.com/)**  
+Blockchain-based real estate platform. Integrated smart contract automation and user dashboards.
 
 📌 **CRM MVP (Private Repo)**  
 Custom fundraising CRM with real-time analytics and cross-platform mobile support.
