@@ -40,12 +40,12 @@
   </tr>
   <tr>
     <td align="center"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50"/><br> Blockchain </td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Artificial_Intelligence_%28AI%29.svg" width="50"/><br> AI </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br> MySQL </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/><br> PostgreSQL </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><br> MongoDB </td>
     <td align="center"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="50"/><br> SQL </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br> Git </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/><br> GitHub </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="50"/><br> Cypress </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/><br> Docker </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50"/><br> Azure </td>
