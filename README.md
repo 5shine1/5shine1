@@ -69,7 +69,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
 <table>
   <tr>
     <td>
-      <div style="text-align: center; margin: 10px; display:flex;">
+      <div style="text-align: center; margin: 10px; display:flex; align-items:center;">
         <a href="mailto:shawneeamos@gmail.com" target="_blank">
           <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
         </a>
