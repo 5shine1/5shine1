@@ -98,11 +98,10 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
   </tr>
   <tr>
     <td>
-      <div style="text-align: center; margin: 10px;">
+      <div style="text-align: center; margin: 10px; display:flex;">
         <a href="https://t.me/your-telegram-id" target="_blank">
           <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
         </a>
-        <br>
         <strong>Telegram:</strong> <a href="https://t.me/your-telegram-id">@your-telegram-id</a>
       </div>
     </td>
