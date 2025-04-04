@@ -6,7 +6,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
   <a href="mailto:shawneeamos@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
+    <img src="https://img.icons8.com/ios/30/C0C0C0/email-open.png"/>
   </a>
   <a href="http://shawnee-portfolio.vercel.app/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios/50/C0C0C0/domain.png"/>
