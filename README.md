@@ -2,18 +2,25 @@
 <h3 align="center">Full-Stack Engineer | AI & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <a href="http://shawnee-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FC466B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:shawneeamos@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/5shine1" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://twitter.com/shawneeamos" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/shawneeamos/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="50"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
