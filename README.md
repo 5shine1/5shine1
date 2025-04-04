@@ -88,10 +88,55 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
 
 ### 🤝 Let's Connect
 
-- 📬 **Email**: [shawneeamos@gmail.com](mailto:shawneeamos@gmail.com)  
-- 🌐 **Portfolio**: [shawnee-portfolio.vercel.app](http://shawnee-portfolio.vercel.app)  
-- 💼 **LinkedIn**: [linkedin.com/in/shawneeamos](#)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
+    <a href="mailto:shawneeamos@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
+    </a>
+    <br>
+    <strong>Email:</strong> <a href="mailto:shawneeamos@gmail.com">shawneeamos@gmail.com</a>
+  </div>
 
+  <div style="text-align: center; margin: 10px;">
+    <a href="http://shawnee-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.icons8.com/ios/50/C0C0C0/domain.png"/>
+    </a>
+    <br>
+    <strong>Portfolio:</strong> <a href="http://shawnee-portfolio.vercel.app/">shawnee-portfolio.vercel.app</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+    </a>
+    <br>
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shawneeamos/">linkedin.com/in/shawneeamos</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <a href="https://t.me/your-telegram-id" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
+    </a>
+    <br>
+    <strong>Telegram:</strong> <a href="https://t.me/your-telegram-id">@your-telegram-id</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <a href="https://discord.com/users/your-discord-id" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png"/>
+    </a>
+    <br>
+    <strong>Discord:</strong> <a href="https://discord.com/users/your-discord-id">@your-discord-id</a>
+  </div>
+
+  <div style="text-align: center; margin: 10px;">
+    <a href="tel:+1234567890" target="_blank">
+      <img src="https://img.icons8.com/ios/50/C0C0C0/phone.png"/>
+    </a>
+    <br>
+    <strong>Phone:</strong> <a href="tel:+1234567890">+1 234 567 890</a>
+  </div>
+</div>
 ---
 
 <p align="center">💖 Thanks for visiting my GitHub profile!</p>
