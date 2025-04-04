@@ -69,7 +69,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
 <table>
   <tr>
     <td>
-      <div style="text-align: center; margin: 10px 20px;">
+      <div style="text-align: center; margin: 10px;">
         <a href="mailto:shawneeamos@gmail.com" target="_blank">
           <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
         </a>
@@ -98,7 +98,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
   </tr>
   <tr>
     <td>
-      <div style="text-align: center; margin: 10px 20px;">
+      <div style="text-align: center; margin: 10px;">
         <a href="https://t.me/your-telegram-id" target="_blank">
           <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
         </a>
