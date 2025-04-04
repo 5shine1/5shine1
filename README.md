@@ -116,6 +116,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
     <strong>Phone:</strong> <a href="tel:+1234567890">+1 234 567 890</a>
   </div>
 </div>
+
 ---
 
 <p align="center">💖 Thanks for visiting my GitHub profile!</p>
