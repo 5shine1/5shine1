@@ -1,27 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shawnee Amos</h1>
 <h3 align="center">Full-Stack Engineer | AI & Blockchain Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:shawneeamos@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios/30/C0C0C0/email-open.png"/>
-  </a>
-  <a href="tel:+15419183871" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios/30/C0C0C0/phone.png"/>
-  </a>
-  <a href="http://shawnee-portfolio.vercel.app/" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios/30/C0C0C0/domain.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank" style="margin: 0 55px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>
-  <a href="https://discord.com/users/blaze_dc3" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/30/5865F2/discord.png"/>
-  </a>
-  <a href="https://t.me/@bLaze_ok" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/ios-filled/30/0088cc/telegram.png"/>
-  </a>
-</p>
-
 ---
 
 ### 🧠 About Me
