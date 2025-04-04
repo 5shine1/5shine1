@@ -23,25 +23,30 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages and Tools
 
-#### 🖼️ Frontend
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&fontSize=60)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&fontSize=60)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&fontSize=60)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&fontSize=60)
-
-#### 🧠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&fontSize=60)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&fontSize=60)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&fontSize=60)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&fontSize=60)
-
-#### 🗃️ Database & DevOps
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&fontSize=60)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&fontSize=60)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&fontSize=60)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&fontSize=60)
+<table>
+  <tr>
+    <td align="center"><img src="https://nestjs.com/img/logo_text.svg" width="50"/><br> NestJS </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/><br> TypeScript </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50"/><br> Kafka </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/><br> AWS </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><br> MongoDB </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br> JavaScript </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><br> C++ </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"/><br> Go </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br> React </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50"/><br> Grafana </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="50"/><br> Jest </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/><br> Node.js </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50"/><br> Firebase </td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50"/><br> Rust </td>
+  </tr>
+</table>
 
 ---
 
