@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shawnee Amos</h1>
 <h3 align="center">Full-Stack Engineer | AI & Blockchain Enthusiast</h3>
 
-### 🚀 Connect With Me  
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
+  <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
-  <a href="mailto:shawneeamos@gmail.com" target="_blank">
+  <a href="mailto:shawneeamos@gmail.com" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
   </a>
-  <a href="http://shawnee-portfolio.vercel.app/" target="_blank">
+  <a href="http://shawnee-portfolio.vercel.app/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios/50/C0C0C0/domain.png"/>
   </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/your-discord-id" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png"/>
   </a>
-  <a href="tel:+1234567890" target="_blank">
+  <a href="tel:+1234567890" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios/50/C0C0C0/phone.png"/>
   </a>
-  <a href="https://t.me/your-telegram-id" target="_blank">
+  <a href="https://t.me/your-telegram-id" target="_blank" style="margin: 0 15px;">
     <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
   </a>
 </p>
