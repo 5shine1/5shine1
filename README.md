@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages and Tools
 
-<table>
+<table style="text-align: center; width:100%;">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br> React </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/><br> Vue.js </td>
