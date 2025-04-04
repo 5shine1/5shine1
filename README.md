@@ -72,6 +72,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
     <a href="mailto:shawneeamos@gmail.com" target="_blank">
       <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
     </a>
+    <br>
     <strong>Email:</strong> <a href="mailto:shawneeamos@gmail.com">shawneeamos@gmail.com</a>
   </div>
 
