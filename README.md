@@ -8,7 +8,7 @@
   <a href="mailto:shawneeamos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-1f425f?style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
@@ -71,7 +71,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
 
 - 📬 **Email**: [shawneeamos@gmail.com](mailto:shawneeamos@gmail.com)  
 - 🌐 **Portfolio**: [shawnee-portfolio.vercel.app](http://shawnee-portfolio.vercel.app)  
-- 💼 **LinkedIn**: [linkedin.com/in/shawneeamos](https://www.linkedin.com/in/shawneeamos)
+- 💼 **LinkedIn**: [linkedin.com/in/shawneeamos](#)
 
 ---
 
