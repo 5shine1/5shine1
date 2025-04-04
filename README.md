@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shawnee Amos</h1>
+<h1 align="center">Hi 👋, Welcome to My GitHub! 🎉</h1>
 <h3 align="center">Full-Stack Engineer | AI & Blockchain Enthusiast</h3>
 
 ---
