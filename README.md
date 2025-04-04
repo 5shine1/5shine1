@@ -71,7 +71,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
     <td>
       <div style="text-align: center; margin: 10px;">
         <a href="mailto:shawneeamos@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/ios/50/C0C0C0/email-open.png"/>
+          <img src="https://img.icons8.com/ios/30/C0C0C0/email-open.png"/>
         </a>
         <br>
         <strong>Email:</strong> <a href="mailto:shawneeamos@gmail.com">shawneeamos@gmail.com</a>
@@ -80,7 +80,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
     <td>
       <div style="text-align: center; margin: 10px;">
         <a href="http://shawnee-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/ios/50/C0C0C0/domain.png"/>
+          <img src="https://img.icons8.com/ios/30/C0C0C0/domain.png"/>
         </a>
         <br>
         <strong>Portfolio:</strong> <a href="http://shawnee-portfolio.vercel.app/">shawnee-portfolio.vercel.app</a>
@@ -89,7 +89,7 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
     <td>
       <div style="text-align: center; margin: 10px;">
         <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
         </a>
         <br>
         <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shawneeamos/">linkedin.com/in/shawneeamos</a>
@@ -100,27 +100,28 @@ Custom fundraising CRM with real-time analytics and cross-platform mobile suppor
     <td>
       <div style="text-align: center; margin: 10px;">
         <a href="https://t.me/your-telegram-id" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
+          <img src="https://img.icons8.com/ios-filled/30/0088cc/telegram.png"/>
         </a>
-        <strong>Telegram:</strong> <a href="https://t.me/your-telegram-id">@your-telegram-id</a>
+        <br>
+        <strong>Telegram:</strong> <a href="https://t.me/your-telegram-id">@bLaze_ok</a>
       </div>
     </td>
     <td>
       <div style="text-align: center; margin: 10px;">
         <a href="https://discord.com/users/your-discord-id" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png"/>
+          <img src="https://img.icons8.com/ios-filled/30/5865F2/discord.png"/>
         </a>
         <br>
-        <strong>Discord:</strong> <a href="https://discord.com/users/your-discord-id">@your-discord-id</a>
+        <strong>Discord:</strong> <a href="https://discord.com/users/your-discord-id">blaze_dc3</a>
       </div>
     </td>
     <td>
       <div style="text-align: center; margin: 10px;">
         <a href="tel:+1234567890" target="_blank">
-          <img src="https://img.icons8.com/ios/50/C0C0C0/phone.png"/>
+          <img src="https://img.icons8.com/ios/30/C0C0C0/phone.png"/>
         </a>
         <br>
-        <strong>Phone:</strong> <a href="tel:+1234567890">+1 234 567 890</a>
+        <strong>Phone:</strong> <a href="tel:+1234567890">+1 541 918 3871</a>
       </div>
     </td>
   </tr>
