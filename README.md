@@ -2,42 +2,24 @@
 <h3 align="center">Full-Stack Engineer | AI & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:shawneeamos@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="http://shawnee-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://discord.com/users/your-discord-id" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="tel:+1234567890" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://t.me/your-telegram-id" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="mailto:shawneeamos@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png"/>
+  </a>
+  <a href="tel:+1234567890" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shawneeamos/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+  </a>
+  <a href="http://shawnee-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/5865F2/discord.png"/>
+  </a>
+  <a href="https://t.me/your-telegram-id" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0088cc/telegram.png"/>
+  </a>
 </p>
 
 ---
