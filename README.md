@@ -7,7 +7,7 @@
 
 🚀 A results-driven **Full-Stack Engineer** with **9+ years** of experience building scalable, elegant, and user-focused web applications.  
 🧩 Expert in **React**, **Next.js**, **Django**, **Node.js**, and integrating cutting-edge **AI/ML** features.  
-🌐 Deeply passionate about **blockchain technology**, decentralized systems, and creating efficient, future-proof solutions.
+🌐 Deeply passionate about **blockchain technology**, decentralized systems, ChatBot AI, and creating efficient, future-proof solutions.
 
 ---
 
