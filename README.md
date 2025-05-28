@@ -27,7 +27,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br> Java </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="50"/><br> Blockchain </td>
+    <td align="center"><img src="https://img.icons8.com/fluency/48/000000/blockchain-technology.png" width="50"/><br> Blockchain </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/><br> MySQL </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/><br> PostgreSQL </td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><br> MongoDB </td>
