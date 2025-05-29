@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, Welcome to My GitHub! 🎉</h1>
 <h3 align="center">Full-Stack Engineer | AI & Blockchain Enthusiast</h3>
 
+
+![My Custom Badge](https://img.shields.io/badge/React-Developer-blue)
+
 ---
 
 ### 🧠 About Me
